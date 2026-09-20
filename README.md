@@ -4,7 +4,7 @@
 
 ---
 
-### B.S. Computer Science  and  B.S. Data Science @ Rutgers NB '28
+### 🖥️ B.S. Computer Science  and  B.S. Data Science @ Rutgers NB '28
 
 <p align="center">
   </code>Primary focus in cyber operations & security(blue team, red team, or purple team); open to opportunities in software engineering and data science.
