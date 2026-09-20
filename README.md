@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello, I'm Nikitha Pandeshwar Manjunath
+# Hello, I'm Nikitha Pandeshwar Manjunath 👋
 
 ---
 
