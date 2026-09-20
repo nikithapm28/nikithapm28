@@ -1,4 +1,5 @@
-## &&&&&&&&&&&&                                     Hello, my name is Nikitha Pandeshwar Manjunath
+<center>Hello my name is Nikitha</center>
+
 
 <!--
 **nikithapm28/nikithapm28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
