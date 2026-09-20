@@ -1,9 +1,4 @@
-
-| |
-| :-: |
-| Hello my name is Nikitha |
-| |
-
+                                      ## Hello, I'm Nikitha Pandeshwar Manjunath
 
 
 <!--
